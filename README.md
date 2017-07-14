@@ -14,8 +14,8 @@ The winner is the first player that reaches (or exceeds) 100 points.
 
 #Screens
 
-![ScreenShot](https://lh4.googleusercontent.com/3Q39r62x6n07YttJfqOkVpclc_OAKDgRZb1Okg_5CeCfKSKZjXHzkunF_gJXXKp4kuQuw51Y=w1366-h638 
-"Optional title1")
+<img src="./DiceGame.png"></img>
+
 
 #License
 
